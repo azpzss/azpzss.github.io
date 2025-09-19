@@ -1,1 +1,2 @@
-# azpzss.github.io
+# Piškvorky
+hra v javascript
