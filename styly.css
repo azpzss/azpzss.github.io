@@ -78,7 +78,7 @@ p {
     width: 40rem;
   }
 
-  .container__images {
+  .container__image {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 0 1.25rem;
@@ -133,13 +133,13 @@ p {
 }
 
 .btn.board__field--circle {
-  background-image: url('images/circle.svg');
+  background-image: url('image/circle.svg');
   animation-name: scaling;
   animation-duration: 0.15s;
 }
 
 .btn.board__field--cross {
-  background-image: url('images/cross.svg');
+  background-image: url('image/cross.svg');
   animation-name: scaling;
   animation-duration: 0.15s;
 } 
@@ -190,7 +190,7 @@ p {
   border-radius: 0.3rem;
 }
 
-/* images and images description */
+/* image and image description */
 
 figure {
   margin: 0;
